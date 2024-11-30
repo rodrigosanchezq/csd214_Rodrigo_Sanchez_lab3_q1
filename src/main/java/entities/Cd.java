@@ -1,4 +1,4 @@
-package Lab3;
+package entities;
 
 import javax.persistence.*;
 
